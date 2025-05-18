@@ -18,7 +18,7 @@
  
  ## Soft Skills
  
- Sou uma pessoa comunicativa, prestativa, organizada e dedicada. Estou constantemente em busca de mais conhecimento.
+ Sou comunicativa, prestativa, organizada e dedicada. Estou constantemente em busca de mais conhecimento.
  
  Gosto de enfrentar desafios e estou sempre disposta a contribuir para o crescimento de qualquer projeto em que atue. Meu objetivo é aprender e crescer em um ambiente que valoriza o desenvolvimento contínuo, onde eu possa aplicar minhas habilidades e adquirir novos conhecimentos.
 
