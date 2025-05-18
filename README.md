@@ -26,7 +26,7 @@
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=m0rgan7&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=m0rgan7&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=m0rgan7&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF) -->
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=m0rgan7&theme=bear&background=000000&border=30A3DC&dates=FFFFFF&fire=E94D5F&ring=E94D5F)](https://git.io/streak-stats)
 
@@ -63,7 +63,7 @@
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=m0rgan7&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=m0rgan7&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=m0rgan7&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF) -->
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=m0rgan7&theme=bear&background=000000&border=30A3DC&dates=FFFFFF&fire=E94D5F&ring=E94D5F)](https://git.io/streak-stats)
 
