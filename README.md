@@ -1,20 +1,17 @@
- # Lavínia Melo
+`Software Engineer in training`
 
- `Software Engineer in training`
+![Demon Slayer Xbox](https://media.giphy.com/media/q217GUnfKAmJlFcjBX/giphy.gif)
 
- ## About me
+## About me
 
- I’m passionate about building new things and constantly learning — that’s what led me to programming. I love how tech challenges us to innovate, grow, and turn ideas into real solutions.
-
-Outside of coding, I enjoy dancing, traveling, and exploring different cultures — activities that fuel my creativity and help me see the world from new perspectives.
+I’m passionate about building new things and constantly learning — that’s what led me to programming. I love how tech challenges us to innovate, grow, and turn ideas into real solutions.
 
 I'm currently focused on improving my technical skills and expanding my knowledge, especially in areas like **Artificial Intelligence** and **Automation**, which I believe hold great potential.
 
  ## Hard Skills
 - HTML  
-- Java  
-- Python  
-- Java Cloud Native  
+- Python
+- Java /Java Cloud Native 
 - Basic cybersecurity knowledge 
  
  ## Soft Skills
@@ -31,4 +28,3 @@ I'm currently focused on improving my technical skills and expanding my knowledg
  [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:lavinia.p.a.melo@gmail.com)
 
 ![Welcome banner](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
-
