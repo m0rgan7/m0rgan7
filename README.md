@@ -6,7 +6,7 @@
 
 I’m passionate about building new things and constantly learning — that’s what led me to programming. I love how tech challenges us to innovate, grow, and turn ideas into real solutions.
 
-I'm currently focused on improving my technical skills and expanding my knowledge, especially in areas like **Artificial Intelligence** and **Automation**, which I believe hold great potential.
+I'm currently focused on improving my technical skills and expanding my knowledge, especially in areas like **Artificial Intelligence** and **Cybersecurity**, which I believe hold great potential.
 
  ## Hard Skills
 - HTML  
