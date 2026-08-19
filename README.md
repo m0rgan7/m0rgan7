@@ -9,9 +9,14 @@ I’m passionate about building new things and constantly learning — that’s 
 I'm currently focused on improving my technical skills and expanding my knowledge, especially in areas like **Artificial Intelligence** and **Cybersecurity**, which I believe hold great potential.
 
  ## Hard Skills
-- HTML  
+- HTML
+- CSS
+- Java Spring
+- Node JS
+- Java Script 
 - Python
-- Java /Java Cloud Native 
+- Java
+- AWS, AZURE... (Cloud) 
 - Basic cybersecurity knowledge 
  
  ## Soft Skills
